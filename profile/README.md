@@ -12,7 +12,9 @@ Welcome to the Computer Science Society at Zamzam University of Science and Tech
 [![Facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ciszust)
 [![Youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/ciszust)
 [![GitHub](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ciszust)
-[![Discord](https://img.shields.io/badge/github-36393e?style=for-the-badge&logo=github&logoColor=white)](https://facebook.com/ciszust)
+[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://facebook.com/ciszust)
+[![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://facebook.com/ciszust)
+
 
 Join the Computer Science Society at Zamzam University of Science and Technology and become a part of a community dedicated to advancing knowledge, embracing innovation, and nurturing a love for technology. Together, we will push the boundaries of what's possible and shape the future of the tech industry.
 
